@@ -5,3 +5,10 @@ vendor
 coverage
 .phpunit.result.cache
 .phpunit.result.cache
+/.idea/.gitignore
+/.idea/laravel-form-components.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/phpunit.xml
+/.idea/vcs.xml
